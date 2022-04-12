@@ -1,0 +1,16 @@
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\bin\Debug\netcoreapp3.0\consumer.exe
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\bin\Debug\netcoreapp3.0\consumer.deps.json
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\bin\Debug\netcoreapp3.0\consumer.runtimeconfig.json
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\bin\Debug\netcoreapp3.0\consumer.runtimeconfig.dev.json
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\bin\Debug\netcoreapp3.0\consumer.dll
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\bin\Debug\netcoreapp3.0\consumer.pdb
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\bin\Debug\netcoreapp3.0\NATS.Client.dll
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\obj\Debug\netcoreapp3.0\consumer.csproj.AssemblyReference.cache
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\obj\Debug\netcoreapp3.0\consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\obj\Debug\netcoreapp3.0\consumer.AssemblyInfoInputs.cache
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\obj\Debug\netcoreapp3.0\consumer.AssemblyInfo.cs
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\obj\Debug\netcoreapp3.0\consumer.csproj.CoreCompileInputs.cache
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\obj\Debug\netcoreapp3.0\consumer.csproj.CopyComplete
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\obj\Debug\netcoreapp3.0\consumer.dll
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\obj\Debug\netcoreapp3.0\consumer.pdb
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\consumer\obj\Debug\netcoreapp3.0\consumer.genruntimeconfig.cache

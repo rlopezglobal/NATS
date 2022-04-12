@@ -1,0 +1,16 @@
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\bin\Debug\netcoreapp3.0\producer.exe
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\bin\Debug\netcoreapp3.0\producer.deps.json
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\bin\Debug\netcoreapp3.0\producer.runtimeconfig.json
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\bin\Debug\netcoreapp3.0\producer.runtimeconfig.dev.json
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\bin\Debug\netcoreapp3.0\producer.dll
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\bin\Debug\netcoreapp3.0\producer.pdb
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\bin\Debug\netcoreapp3.0\NATS.Client.dll
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\obj\Debug\netcoreapp3.0\producer.csproj.AssemblyReference.cache
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\obj\Debug\netcoreapp3.0\producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\obj\Debug\netcoreapp3.0\producer.AssemblyInfoInputs.cache
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\obj\Debug\netcoreapp3.0\producer.AssemblyInfo.cs
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\obj\Debug\netcoreapp3.0\producer.csproj.CoreCompileInputs.cache
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\obj\Debug\netcoreapp3.0\producer.csproj.CopyComplete
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\obj\Debug\netcoreapp3.0\producer.dll
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\obj\Debug\netcoreapp3.0\producer.pdb
+C:\Users\roberto.lopez\OneDrive - Material Handling Systems\Documents\MyData\Playground\Nats\nats-demo\src\NATS\producer\obj\Debug\netcoreapp3.0\producer.genruntimeconfig.cache
